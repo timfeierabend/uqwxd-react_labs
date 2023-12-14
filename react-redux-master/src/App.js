@@ -7,6 +7,6 @@ function App() {
         <MainPanel/>
       </div>
     );
-}
+};
 
 export default App;
